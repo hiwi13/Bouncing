@@ -1,7 +1,7 @@
 Project Title: Chapter2_Challenge_Applet
 Class Name: BouncingBallApplet
-Author: [Your Name]
-Date: [Insert Date]
+Name: [Addis-hiwot Abdisa]
+Date: [17/10/2025]
 
 ---------------------------------------------------------
 1. Project Description
@@ -105,3 +105,11 @@ Even though Java Applets are deprecated, learning about them is important becaus
 When the program runs, you will see:
 - A blue (cyan) background window (400x300 pixels)
 - A red ball bouncing smoothly within the window boundaries.
+- ---------------------------------------------------------
+8. Author Reflection
+---------------------------------------------------------
+This challenge helped me understand how Java Applets worked 
+for animation, how threads control movement, and how graphics 
+are drawn using the AWT library. Even though Applets are no 
+longer used on the web, they remain useful for learning the 
+fundamentals of Java animation and GUI design.
